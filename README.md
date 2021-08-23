@@ -16,6 +16,6 @@ This project scrapes data from the [best books ever list](https://www.goodreads.
 
 ## Model building
 
-We used a K-Means algorithm to cluster our data into different categories. Then we created word clouds of the genres in each category, and found the top books in each category.
+We used a K-Means algorithm to cluster our data into different categories. Then we created word clouds of the genres in each category, and found the top books in each category. An example of the wordcloud of a category can be found below. Please check the notebook (3_model_buildin.ipynp) for the full results. 
 
 ![wordcloud](wordcloud1.PNG)<br><br>
